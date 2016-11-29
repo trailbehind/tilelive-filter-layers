@@ -1,6 +1,6 @@
 {
   "name": "tilelive-filter-layers",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Tilelive module that fetches a vector tile, and returns a new tile with a subset of layers.",
   "main": "lib/index.js",
   "directories": {
