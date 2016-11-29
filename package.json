@@ -1,0 +1,43 @@
+{
+  "name": "tilelive-filter-layers",
+  "version": "1.0.0",
+  "description": "Tilelive module that fetches a vector tile, and returns a new tile with a subset of layers.",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "mapnik": "^3.5.0"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "tilelive": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trailbehind/tilelive-filter-layers.git"
+  },
+  "keywords": [
+    "tilelive",
+    "mapnik"
+  ],
+  "_npmUser": {
+    "name": "jessecrocker",
+    "email": "jesse@gaiagps.com"
+  },
+  "author": "Jesse Crocker",
+  "maintainers": [
+    {
+      "name": "Jesse Crocker",
+      "email": "jesse@gaiagps.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trailbehind/tilelive-filter-layers/issues"
+  },
+  "homepage": "https://github.com/trailbehind/tilelive-filter-layers#readme"
+}
